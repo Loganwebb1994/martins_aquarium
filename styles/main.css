@@ -1,0 +1,50 @@
+header {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  .logo{
+      size: 8em;
+  }
+  .content{
+      display: flex;
+      
+    
+    
+  }
+.fish__image{
+    height:9em;
+}
+
+.container--left{
+    background-color: mediumturquoise;
+    margin-right: 10px;
+    border: 1px solid black;
+    text-align: left;
+    color: blue;
+}
+.container--right{
+    background-color: mediumseagreen;
+    text-align: center;
+    color: blue;
+    border: 1px solid black;
+}
+.quotes{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.fish__species{
+    margin-top: 15px;
+}
+.location__image{
+    margin-bottom: 15px;
+}
+
+.location__details{
+    margin-bottom: 15px;
+}
+.location__image{
+    height: 10em ;
+}
+.header{
+    color: blue;
+}
