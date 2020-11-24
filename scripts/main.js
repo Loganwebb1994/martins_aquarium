@@ -1,4 +1,6 @@
 import { FishList} from "./FishList.js"
-FishList()
 import {QuoteList} from "./QuoteList.js"
+import {LocationList} from "./LocationList.js"
+FishList()
 QuoteList()
+LocationList()
